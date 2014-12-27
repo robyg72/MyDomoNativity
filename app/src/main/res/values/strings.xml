@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDomoNativity</string>
+    <string name="hello_world">Controllo presepe</string>
+    <string name="windMill_speed">Velocità del Mulino</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
